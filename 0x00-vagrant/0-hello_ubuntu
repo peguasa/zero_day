@@ -1,1 +1,1 @@
-when the 'uname command is run without any option then it prints just the kernel name. so the output below shows that its the linux kernel that is used by the system.
+linux
